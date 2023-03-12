@@ -1,0 +1,108 @@
+
+
+
+/******************************** General****************************************/
+h1 {
+    
+    color: #ff0000;
+
+    
+}
+body {
+    font-family: Corbel,Arial, Helvetica, sans-serif;
+    margin: 0;
+
+}
+
+h1 { teext 
+font-size : 36px ; 
+background-color :#00fb7d ;
+padding: 30 px ;
+padding: 30 px 40 px 5 px 10 px;
+text-transform: uppercase;
+
+
+}
+
+h2 {
+    width: auto;
+    margin: auto;
+
+}
+
+
+
+a { color: #000000;
+    text-decoration: none;
+}
+h1, h2 , {
+    border-left: 3px #ffffff solid; 
+    border-right: 3px #ffffff solid;
+    margin: 0;
+  }
+  
+
+
+  body {
+    background-color: #DBF9FC;
+    }
+     
+    img.left
+
+/*******************************************HEADER************/
+ 
+#header      { 
+    background-color: rgb(140, 233, 199);
+        
+
+}
+    h1 { 
+                font-size: 36px;
+                margin: 0mm;
+                text-align: center;
+                padding: 15 px 0 0 ;
+                color: #000000;
+            
+
+}
+    
+    h2 {
+        text-align: center;
+        margin: 0;
+        color: #000000;
+    
+    }
+
+ #nav {
+    
+    text-align: center;
+    list-style-type: none;
+}
+#nav li {
+    display: inline-block;
+    padding: 6px 8px 6px 8px ;
+}
+#nav li {
+color: black 
+
+
+}
+#nav li:hover {
+    background-color: rgb(71, 227, 165);
+
+}
+
+
+/*******************************************CONTENT*************************************************************/
+#content {
+    width: 600px;
+    margin: 30px auto;
+
+}
+#content h4 {
+    border-bottom:rgb(71, 227, 165) solid 3px
+  
+}
+#content h4 {
+    text-align: center;
+}
